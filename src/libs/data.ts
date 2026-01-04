@@ -98,16 +98,6 @@ export const productsData: Product[] = [
       "https://picsum.photos/id/1041/400/400",
     ],
   },
-  {
-    id:10,
-    title: "PixelMax Bluetooth Speaker",
-    description: "Portable speaker with rich bass and 12h playtime.",
-    price: 45,
-    images: [
-      "https://picsum.photos/id/1087/400/400",
-      "https://picsum.photos/id/1088/400/400",
-    ],
-  },
 ];
 
 
